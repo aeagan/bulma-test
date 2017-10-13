@@ -5234,6 +5234,7 @@ a.dropdown-item.is-active {
 
 .level:not(:last-child) {
   margin-bottom: 1.5rem;
+  margin-top: 10px;
 }
 
 .level code {
